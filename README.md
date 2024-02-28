@@ -14,18 +14,16 @@ SOLUTION
 ├── public
 │     └── index.html
 ├── src
+│    ├── assets
+│    │       └── [images]
 │    ├── components
-│    │       ├── Header.js
-│    │       ├── CardContainer.js
-│    │       └── PlayerCard.js
+│    │       ├── CardContainer.jsx
+│    │       ├── Header.jsx
+│    │       └── PlayerCard.jsx
 │    ├── helper
 │    │       └── data.js
-│    ├── assets.js
-│    │       └── [images]
 │    ├── App.js
-│    ├── App.css
 │    ├── index.js
-│    └── index.css
 ├── package-lock.json
 ├── package.json
 └── readme.md 
