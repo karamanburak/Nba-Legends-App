@@ -1,15 +1,19 @@
 import React from 'react'
-import backgroundImage from '../assets/nba-logo2.png'
 
 
 const CardContainer = () => {
   return (
-    <div className='container'>
-    <div className='text-center mt-5'>
-              <img className='rounded' src={backgroundImage} alt="" width="80%"/>
-    </div>
+    <div>
 
+{/* 
+      <ul className='m-auto'>
+        <li className='h5 text-start list-unstyled'>"🏀" {statistics[0]}</li>
+        <li className='h5 text-start list-unstyled'>"🏀" {statistics[1]}</li>
+        <li className='h5 text-start list-unstyled'>"🏀" {statistics[2]}</li>
+        <li className='h5 text-start list-unstyled'>"🏀" {statistics[3]}</li>
+      </ul> */}
     </div>
+  
   )
 }
 

@@ -15,9 +15,9 @@ SOLUTION
 │     └── index.html
 ├── src
 │    ├── assets
-│    │       └── players
-|    |                 ├── allen-iverson.jpg  
-|    |                 └── lebron-james.jpg
+│    │       ├── players(img)
+│    │       └── team-logo(img)
+|    |                 
 |    ├── nba-logo.png     
 |    ├── nba-logo2.png
 │    ├── components

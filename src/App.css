@@ -7,11 +7,21 @@ body{
     background-color: #F4D467 !important;
 }
 
-.container{
-    word-spacing: 1rem;
-    font-size: 1.5rem;
-
+.card-container{
+    background-image: url(./assets/nba-logo2.png);
+    border-radius: 1rem;
+    min-width: 300px;
+    margin-bottom: 2rem;
+    cursor: pointer;
+  
 }
+
+
+
+.playerCard{
+    margin: 2rem  0 !important;
+}
+
 
 .inputDiv{
     position: relative;
@@ -20,6 +30,11 @@ body{
 
 .closeIcon{
     position: absolute;
-    top: 7px;
-    right: 3px;
+    top: 10px;
+    right: 7px;
+}
+
+.playerCard .cardImg:hover{
+    transform: scale(.9);
+    transition: all ease-in-out .4s;
 }
