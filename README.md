@@ -15,7 +15,11 @@ SOLUTION
 │     └── index.html
 ├── src
 │    ├── assets
-│    │       └── [images]
+│    │       └── players
+|    |                 ├── allen-iverson.jpg  
+|    |                 └── lebron-james.jpg
+|    ├── nba-logo.png     
+|    ├── nba-logo2.png
 │    ├── components
 │    │       ├── CardContainer.jsx
 │    │       ├── Header.jsx
@@ -24,6 +28,8 @@ SOLUTION
 │    │       └── data.js
 │    ├── App.js
 │    ├── index.js
+├── .gitignore
+├── LICENSE
 ├── package-lock.json
 ├── package.json
 └── readme.md 
