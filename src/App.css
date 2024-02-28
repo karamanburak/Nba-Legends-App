@@ -1,0 +1,25 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background-color: #F4D467 !important;
+}
+
+.container{
+    word-spacing: 1rem;
+    font-size: 1.5rem;
+
+}
+
+.inputDiv{
+    position: relative;
+
+}
+
+.closeIcon{
+    position: absolute;
+    top: 7px;
+    right: 3px;
+}
