@@ -22,7 +22,7 @@ export const data = [
         img:allenIverson,
         teamLogo: phila,
         statistics: [
-            "24,368 points points",
+            "24,368 points",
             "3,394 rebounds",
             "5,624 assist",
             "11 All Star",

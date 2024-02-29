@@ -1,7 +1,6 @@
 import './App.css';
 import React from 'react'
 import Header from './components/Header';
-import CardContainer from './components/CardContainer';
 import PlayerCard from './components/PlayerCard';
 
 
@@ -12,7 +11,6 @@ const App = () => {
     <div>
 
     <Header/>
-    {/* <CardContainer/> */}
     <PlayerCard data={data}/>
     </div>
   )
