@@ -41,7 +41,7 @@ SOLUTION
 
 ## Expected Outcome
 
-<!-- ![Project Snapshot](./nba-legends.gif) -->
+![Project Snapshot](./nba-legends.gif)
 
 ## Objective
 
