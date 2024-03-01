@@ -4,7 +4,9 @@
     box-sizing: border-box;
 }
 body{
-    background-color: lightgray !important;
+    background: #E0EAFC;
+        background: -webkit-linear-gradient(to right, #CFDEF3, #E0EAFC);
+        background: linear-gradient(to right, #CFDEF3, #E0EAFC);
 }
 
 .card-container{
