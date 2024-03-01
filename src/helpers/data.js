@@ -61,7 +61,7 @@ export const data = [
             "33,643 points",
             "7,047 rebounds",
             "6,306 assist",
-            "88 All Star",
+            "8 All Star",
         ],
     },
     {

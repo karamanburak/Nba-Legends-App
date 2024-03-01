@@ -1,18 +1,17 @@
-import './App.css';
 import React from 'react'
 import Header from './components/Header';
-import PlayerCard from './components/PlayerCard';
-
-
-import {data} from './helper/data';
+import CardContainer from './components/CardContainer';
+import "bootstrap/dist/css/bootstrap.min.css";
+import { Container } from 'react-bootstrap';
+import './App.css';
 
 const App = () => {
   return (
-    <div>
-
+    <Container>
     <Header/>
-    <PlayerCard data={data}/>
-    </div>
+    <CardContainer/>
+
+    </Container>
   )
 }
 

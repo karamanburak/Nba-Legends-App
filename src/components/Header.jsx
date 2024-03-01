@@ -27,13 +27,6 @@ const filterPlayer = (e) => {
         <h1 className="display-4 fw-bold">NBA Legends</h1>
     </div>
 
-    <div className="inputDiv">
-
-              <input className='w-100 m-auto form-control' type="text" placeholder='Search for NBA Legends' 
-              onInput={filterPlayer}
-              />
-              <IoClose className="closeIcon" />
-    </div>
 
     </div>
 

@@ -4,49 +4,40 @@
     box-sizing: border-box;
 }
 body{
-    background-color: #F4D467 !important;
+    background-color: lightgray !important;
 }
 
 .card-container{
     background-image: url(./assets/nba-logo2.png);
-    border-radius: 1rem;
-    min-width: 300px;
-    min-height: 50px;
-    margin: 2rem 10%;
     cursor: pointer;
   
 }
 
 
 
-.playerCard{
-    margin: 2rem  0 !important;
-    /* border: 2px solid red; */
+.player-card{
+    height: 500px;
+    max-width: 18rem;
 }
 
-ul{
-    
+
+.card-img{
     height: 350px;
+}
+
+.card-footer-img{
+    background-color: inherit !important;
+}
+
+
+.player-card:hover .card-img{
+    transform: scale(.9);
+    transition: all ease-in-out .4s;
+}
+
+.footer{
     display: flex;
     flex-direction: column;
     justify-content: center;
-
-}
-
-
-.inputDiv{
-    position: relative;
-
-}
-
-.closeIcon{
-    position: absolute;
-    top: 10px;
-    right: 7px;
-}
-
-
-.playerCard .cardImg:hover{
-    transform: scale(.9);
-    transition: all ease-in-out .4s;
+    align-items: center;
 }
