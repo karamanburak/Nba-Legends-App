@@ -1,5 +1,9 @@
 # NBA Legends App 
 
+## Live Demo
+
+<a href="https://hall-of-fame-legends-app.netlify.app/" target="_blank">NBA Legends App</a>
+
 ## Description
 
 Project aims to create a NBA Legends App.
@@ -71,6 +75,4 @@ Build a NBA Legends App using ReactJS.
 
 - You can add additional functionalities to your app.
 
-## Demo
 
-<!-- <a href="https://nba-legends.vercel.app/" target="_blank">NBA Legends App</a> -->
