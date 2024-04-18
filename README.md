@@ -1,13 +1,9 @@
 # NBA Legends App 
 
-## Live Demo
-
-<a href="https://hall-of-fame-legends-app.netlify.app/" target="_blank">NBA Legends App</a>
+<a href="https://hall-of-fame-legends-app.netlify.app/" target="_blank">NBA Legends App Live</a>
 
 ## Description
-
-Project aims to create a NBA Legends App.
-
+This project is a Hall of Fame page for NBA players who have left basketball. In this project, you can view some of the NBA players elected to the Hall of Fame and their statistics. 
 
 ## Project Skeleton
 
@@ -39,7 +35,7 @@ SOLUTION
 └── readme.md 
 ```
 
-## Expected Outcome
+## Outcome
 
 ![Project Snapshot](./nba-legends.gif)
 
@@ -57,11 +53,6 @@ Build a NBA Legends App using ReactJS.
 
 - ReactJS
 
-### At the end of the project, you will be able to;
-
-- improve coding skills within HTML & CSS & JS & ReactJS.
-
-- use git commands (push, pull, commit, add etc.) and Github as Version Control System.
 
 ## Steps to Solution
 
@@ -71,8 +62,6 @@ Build a NBA Legends App using ReactJS.
 
 - Step 4: Add project gif to your project and README.md file.
 
-## Notes
 
-- You can add additional functionalities to your app.
 
 
